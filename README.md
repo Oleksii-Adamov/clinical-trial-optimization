@@ -40,7 +40,7 @@ Input for this notebook is provided by the Aqora environment. To set up the envi
 
 Alternatively, you can set up the input in the notebook manually:
 1. Copy the code from the [use case](https://aqora.io/competitions/ingenii-clinical-trial/code/package).
-2. Download the [data] (https://aqora.io/competitions/ingenii-clinical-trial/code/data).
+2. Download the [data](https://aqora.io/competitions/ingenii-clinical-trial/code/data).
 3. Define the input variable in your notebook:
    ```Python
    w = np.loadtxt("pbc.csv", delimiter=",", dtype=float)
