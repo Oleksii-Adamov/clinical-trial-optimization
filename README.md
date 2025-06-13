@@ -6,7 +6,7 @@ More on the competition: https://aqora.io/competitions/ingenii-clinical-trial
 
 ## Summary
 
-I partition input points into clusters, optimize discrepancy for each cluster individually using QAOA, then unite solutions.
+I partition input points into clusters, optimize discrepancy for each cluster individually using QAOA, then unite the solutions.
 
 ## Clustering
 
